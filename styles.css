@@ -1,5 +1,5 @@
 *{
-    font-style: oblique;
+    font-family:"Calibri";
     margin: 0;
 }
 body{
@@ -48,23 +48,11 @@ h1{
     text-align: center;
 }
 
-.box-comment{
-    background-color: white;
-    margin-top: 4px;
-    width: 500px;
-    height: 500px;
-    display: flex;
-    flex-direction: column;
-    position: relative;
-    height: auto;
-    margin: 6px 0 0 0;
-    border-radius: 6px;
-}
-
 .comment{
-    text-align: center;
-    margin-top: 8px;
+    text-align: left;
+    margin-top: 4px;
     margin-bottom: 6px;
+    margin-left: 6px;
 }
 
 .footer{
